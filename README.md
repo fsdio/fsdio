@@ -9,17 +9,16 @@ Feel free to connect and say hi! 😄
 ## About Me
 - How to reach me      : [klikrahmatsunjani@gmail.com](mailto:klikrahmatsunjani@gmail.com)
 
+## Look at the organizations I'm involved in
+- [ReCyclo - Bangkit 2023](https://github.com/ReCyclo-Bangkit-2023)
+- [SPEED PROGRAMMING](https://github.com/Speed-Programming)
+
 ## Let's Connect
 You can find and get in touch with me on these platforms:
 - [Discord](https://discord.gg/zQZVKBFJ)
 - [LinkedIn](https://linkedin.com/in/rahsun)
 - [Stack Overflow](https://stackoverflow.com/users/22234412)
 - [YouTube](https://youtube.com/@UCTfvGw20D0Dj2pA0V5wt-8g)
-
-## GitHub Stats
-![fsdio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsdio&show_icons=true&count_private=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fsdio&layout=compact&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsdio&layout=compact&theme=dark)](https://github.com/fsdio)
 
 ## Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -37,6 +36,3 @@ You can find and get in touch with me on these platforms:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-## Top 5 Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fsdio&limit=5&theme=dark&combine_all_yearly_contributions=true)
