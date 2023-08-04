@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I'm a Programmer with a versatile skill set encomp
 Feel free to connect and say hi! 😄
 
 ## About Me
-- How to reach me      : [klikrahmatsunjani@gmail.com](mailto:klikrahmatsunjani@gmail.com)
+- How to reach me : [klikrahmatsunjani@gmail.com](mailto:klikrahmatsunjani@gmail.com)
+- Get certificate other campus : [view](https://github.com/fsdio/my-certificate/tree/da574ed4912ba196ba5a068f579ad8b90eaf5b4d/other)
+- Get certificate with campus : [view](https://github.com/fsdio/my-certificate/tree/da574ed4912ba196ba5a068f579ad8b90eaf5b4d/certificate-campus)
 
 ## Look at the organizations I'm involved in
 - [ReCyclo - Bangkit 2023](https://github.com/ReCyclo-Bangkit-2023)
