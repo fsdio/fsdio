@@ -1,7 +1,6 @@
 # Hi there, I'm Rahmat Sunjani! 👋
 Welcome to my GitHub profile! I'm a Programmer with a versatile skill set encompassing Java Development, Database Administration, and expertise in GCP. With this combination of abilities, I'm well-prepared to tackle complex projects and contribute to the development of innovative and efficient applications.
-</br></br>
-[![](https://visitcount.itsvg.in/api?id=fsdio&icon=2&color=6)](https://github.com/sponsors/fsdio)
+</br>
 [![](https://img.shields.io/badge/Join_Sponsor-fsdio-8A2BE2)](https://github.com/sponsors/fsdio)
 </br>
 Feel free to connect and say hi! 😄
