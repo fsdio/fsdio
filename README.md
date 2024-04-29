@@ -11,16 +11,21 @@ Feel free to connect and say hi! 😄
 - Get certificate with campus : [view](https://github.com/fsdio/my-certificate/tree/da574ed4912ba196ba5a068f579ad8b90eaf5b4d/certificate-campus)
 - Join Live Discord : [join](https://discord.gg/Y3ErUpur)
 
+## Count view profile:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=fsdio&label=Profile%20views&color=0e75b6&style=flat" alt="fsdio" /></p>
+
+## The programming language used:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsdio&show_icons=true&locale=en&layout=compact" alt="fsdio" /></p>
+</br></br></br></br></br></br></br>
+
 ## Look at the organizations I'm involved in
 - [ReCyclo - Bangkit 2023](https://github.com/ReCyclo-Bangkit-2023)
 - [SPEED PROGRAMMING](https://github.com/Speed-Programming)
 
-## Let's Connect
+## Let's connect and work
 You can find and get in touch with me on these platforms:
-- [Discord](https://discord.gg/zQZVKBFJ)
 - [LinkedIn](https://linkedin.com/in/rahsun)
-- [Stack Overflow](https://stackoverflow.com/users/22234412)
-- [YouTube](https://youtube.com/@UCTfvGw20D0Dj2pA0V5wt-8g)
+- [Project.co.id](https://projects.co.id/public/browse_users/view/e38e49/rahsun69)
 
 ## Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
