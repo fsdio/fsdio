@@ -14,6 +14,9 @@ Feel free to connect and say hi! 😄
 ## Count view profile:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fsdio&label=Profile%20views&color=0e75b6&style=flat" alt="fsdio" /></p>
 
+## Learning Roadmaps
+[![roadmap.sh](https://roadmap.sh/card/wide/64b3816b9a1017508d2164af?variant=dark)](https://roadmap.sh)
+
 ## The programming language used:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsdio&show_icons=true&locale=en&layout=compact" alt="fsdio" /></p>
 </br></br></br></br></br></br></br>
